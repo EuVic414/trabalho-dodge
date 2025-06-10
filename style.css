@@ -55,6 +55,7 @@ body{
 }
 button{
     background-color: #fd3c16;
+    padding: 10px;
 }
 /* Aplica apenas o efeito de hover no botão "Carros" */
 button[onclick="toggleGaleria()"] {
